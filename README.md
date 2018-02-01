@@ -1,4 +1,4 @@
-# README
+# Lis moi avant de Download mon repo
 
  Add this to your Gemfile
  
